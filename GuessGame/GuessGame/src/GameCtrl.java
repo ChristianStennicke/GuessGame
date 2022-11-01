@@ -81,4 +81,7 @@ public class GameCtrl
 		GameCtrl gc = new GameCtrl(0, 100);
 		gc.runGame(thinker, guesser);
 	}
+	//Discard this message.
+
+
 }
